@@ -1,0 +1,20 @@
+.hed-img{
+    height: 80px;
+    width: 180px;
+}
+.img-cont{
+    display: flex;
+}
+.hed-cont{
+    background-color: rgb(211, 214, 194);
+    width: 100%;
+}
+.hed{
+    color: white;
+}
+.para{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

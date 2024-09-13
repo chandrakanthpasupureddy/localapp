@@ -1,0 +1,6 @@
+
+.bg-home{
+    background-color: rgb(192, 193, 171);
+    height: 100vh;
+    overflow-y: scroll;
+}
